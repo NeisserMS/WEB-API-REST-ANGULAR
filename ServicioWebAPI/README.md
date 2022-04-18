@@ -3,4 +3,4 @@
 - Aplicación consumida con Angular.
 * Resultado:
 
-![Resultado](resultado.png)
+![resultado.png](resultado.png)
